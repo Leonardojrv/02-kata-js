@@ -1,0 +1,12 @@
+body {
+    background-color: aquamarine;
+}
+
+.recuadro-usuario {
+    margin-top: 25%;
+    margin-bottom: 50%;
+    margin-left: 50%;
+    margin-right: 50%;
+    border-color: black;
+    border-radius: 2%;
+}
